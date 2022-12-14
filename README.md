@@ -1,8 +1,8 @@
 
 git clone https://github.com/ahmedmejr/DDOS-X-TEAM
 
-cd DDoS
+cd DDOS-X-TEAM
 
-chmod +x DDoS.py
+chmod +x DDOS-X-TEAM.py
 
-python2 DDoS.py
+python2 DDOS-X-TEAM.py
